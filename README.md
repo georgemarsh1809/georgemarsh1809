@@ -1,4 +1,4 @@
-- 👋 Hi, I’m George. An experienced App Support Engineer with extensive experience in development and UI/UX design!
+- 👋 Hi, I’m George. An experienced Application Engineer with extensive experience in development and UI/UX design!
 - 👀 I’m interested in tech, sustainability and philosophy!
 - 🌱 I’m currently learning ReactJS and Python!
 - 💞️ I’m looking to build my skills and land a Front End Developer job!
