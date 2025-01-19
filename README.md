@@ -1,4 +1,4 @@
-- 👋 Hi, I’m George. An experienced Software Engineer with extensive experience in development and UI/UX design!
+- 👋 Hi, I’m George. An experienced Software Engineer with extensive experience in dedployment, development and UI/UX design!
 - 👀 I’m interested in tech, sustainability and philosophy!
 - 🌱 I’m currently learning ReactJS and Python!
 - 💞️ I’m looking to build my skills and land a Front End Developer job!
