@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George. A Software Engineer with extensive experience in deployment and full-stack development.
 - 👀 I’m interested in tech, sustainability and philosophy!
-- 🌱 I’m currently learning FastAPI!
+- 🌱 I’m currently learning FastAPI and TypeScript!
 - 💞️ I’m looking to build my skills and land a Junior Developer job!
 - 🌐 Visit my website for more info about my experience: https://georgemarsh.co.uk
 
