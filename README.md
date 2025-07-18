@@ -45,7 +45,7 @@ Real-time comms app built to streamline and improve incident resolution.
 
 - 🚀 TypeScript, React Native
 - 🧠 Prompt engineering + AI-agent workflows  
-- 🎛️ More DnB production (outside of code 😉)
+- 🎨 End-to-end System Design
 
 ---
 
