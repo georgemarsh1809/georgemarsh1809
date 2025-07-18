@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> <i>
-  “Your passion becomes your purpose when you use it to serve others" — Jay Shetty</i> 
+  “Your passion becomes your purpose when it's used to serve others" — Jay Shetty</i> 
 </p>
 
 
