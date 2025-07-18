@@ -1,41 +1,52 @@
-# 👋 Hey, I’m George
+<h1 align="center">Hey, I'm George 👋</h1>
+<p align="center"> <strong>
+  Full-Stack Dev 🧑‍💻 Tech Humanist 🌍 Chess Nerd ♟️ DJ 🎛️ </strong> 
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/georgemarsh1809/" target="_blank">LinkedIn</a> • 
+  <a href="https://georgemarsh.co.uk" target="_blank">Portfolio</a> •
+  <a href="mailto:georgemarsh1809@gmail.com" target="_blank">Email</a> 
+</p>
 
-💻 **Software Engineer | Full-Stack Developer | 'Tech for Good' Enthusiast** 🌍💚
+## ⚡ About Me
 
-I'm a creative and curious engineer with 5+ years in DevOps, supporting government platforms, and 7+ years building full-stack apps. I love working on projects that empower people — especially those that drive sustainability, data insights, or digital freedom.
+I'm a creative and curious engineer with 5+ years in DevOps supporting government platforms, and 7+ years building full-stack apps. I love working on projects that empower people — especially those that drive sustainabile innovation, data insights, or digital freedom.
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Toolbox
 
 **Languages**  
 `Python` `JavaScript` `HTML/CSS`  `Java` `SQL`  
 
 **Frontend**  
-`React` `CSS Modules` `Redux / Zustand`
+`React` `Redux` `Zustand` `Recharts` `Leaflet`
 
 **Backend**  
-`Node.js` `Express` `FastAPI` `PostgreSQL` `MySQL` `Microservices`
+`Node.js` `Express` `FastAPI` `Microservices`
+
+**Data**  
+`PostgreSQL` `Firebase` `BigQuery` `MySQL`
 
 **DevOps / Infra**  
-`Docker` `Git` `AWS` `Azure` `GCP`
+`Docker` `Bash` `Git` `AWS` `Azure` `GCP`
 
 **Other**  
-`UI/UX` `Figma` `Postman`
+`UI/UX` `Figma` `Postman` 
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚲 [London Cycle Hire Insights](https://github.com/your-username/london-cycle-hire)
+### 🚲 [London Cycle Hire Insights](https://github.com/georgemarsh1809/LondonCityBikeInsights)
 Data driven insights built to understand sustainable patterns in London.   
 > BigQuery → FastAPI → React   
 
-### ♟️ [Chess Data Visualiser](https://github.com/your-username/chessviz)
+### ♟️ [Chess Data Visualiser](https://github.com/georgemarsh1809/ChessDataVisualiser)
 Interactive chess game visualiser built to bring insight into player results.  
 > PostgreSQL → Express → React
 
-### 💬 [CrisisConnect](https://github.com/your-username/incidentwave)  
+### 💬 [CrisisConnect](https://github.com/georgemarsh1809/CrisisConnect)  
 Real-time comms app built to streamline and improve incident resolution.  
 > Firebase → React (ChakraUI) 
 
@@ -49,18 +60,6 @@ Real-time comms app built to streamline and improve incident resolution.
 
 ---
 
-## 📫 Let's Connect!
-
-- 🧠 [LinkedIn](https://github.com/your-username/chessviz)  
-- 💌 Email: georgemarsh1809@gmail.com
-
- 🔗 [My LinkTree](https://linktr.ee/baxtr_)
-
----
-
 _“Your passion becomes your purpose when you use it to serve others" — Jay Shetty_
 
-<!---
-georgemarsh1809/georgemarsh1809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
