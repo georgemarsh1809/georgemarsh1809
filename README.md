@@ -1,6 +1,6 @@
 # 👋 Hey, I’m George
 
-💻 **Software Engineer | Full-Stack Developer | Tech for Good Enthusiast** 🌍💚
+💻 **Software Engineer | Full-Stack Developer | 'Tech for Good' Enthusiast** 🌍💚
 
 I'm a creative and curious engineer with 5+ years in DevOps, supporting government platforms, and 7+ years building full-stack apps. I love working on projects that empower people — especially those that drive sustainability, data insights, or digital freedom.
 
