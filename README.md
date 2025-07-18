@@ -39,15 +39,15 @@ I'm a creative and curious engineer with 5+ years in DevOps supporting governmen
 ## 🚀 Featured Projects
 
 ### 🚲 [London Cycle Hire Insights](https://github.com/georgemarsh1809/LondonCityBikeInsights)
-Data driven insights built to understand sustainable patterns in London.   
+Data-driven insights built to understand sustainable travel patterns in London.   
 > BigQuery → FastAPI → React   
 
 ### ♟️ [Chess Data Visualiser](https://github.com/georgemarsh1809/ChessDataVisualiser)
-Interactive chess game visualiser built to bring insight into player results.  
+Interactive chess data visualiser built to bring insight into player results and stats.  
 > PostgreSQL → Express → React
 
 ### 💬 [CrisisConnect](https://github.com/georgemarsh1809/CrisisConnect)  
-Real-time comms app built to streamline and improve incident resolution.  
+Real-time comms app built to streamline and improve high-priority incident resolution.  
 > Firebase → React (ChakraUI) 
 
 ---
@@ -62,7 +62,7 @@ Real-time comms app built to streamline and improve incident resolution.
 
 ## 📫 Let's connect
 
-- 🧠 [LinkedIn](https://www.linkedin.com/in/georgemarsh1809/)  
+- 🧠 LinkedIn: https://www.linkedin.com/in/georgemarsh1809/
 - 📝 Portfolio: https://georgemarsh.co.uk
 
 ---
