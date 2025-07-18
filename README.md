@@ -60,8 +60,6 @@ Real-time comms app built to streamline and improve incident resolution.
 
 _“Your passion becomes your purpose when you use it to serve others" — Jay Shetty_
 
-k
-
 <!---
 georgemarsh1809/georgemarsh1809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
