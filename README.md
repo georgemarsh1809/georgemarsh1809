@@ -58,7 +58,6 @@ Real-time comms app built to streamline and improve incident resolution.
 ## 📫 Let's connect
 
 - 🧠 [LinkedIn](https://www.linkedin.com/in/georgemarsh1809/)  
-- 💌 Email: you@example.com
 - 📝 Portfolio: https://georgemarsh.co.uk
 
 ---
