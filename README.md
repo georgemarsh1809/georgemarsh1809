@@ -50,7 +50,7 @@ Real-time comms app built to streamline and improve incident resolution.
 ## 🌱 What I'm Learning Right Now
 
 - 🚀 TypeScript + React Native
-- 🧠 Prompt engineering + AI-agent workflows  
+- 🧠 Prompt engineering + AI-assisted workflows  
 - 🎨 End-to-end System Design
 
 ---
