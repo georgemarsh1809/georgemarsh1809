@@ -36,7 +36,7 @@ I'm a creative and curious engineer with 5+ years in DevOps supporting governmen
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 ### 🚲 [London Cycle Hire Insights](https://github.com/georgemarsh1809/LondonCityBikeInsights)
 Data-driven insights built to understand sustainable travel patterns in London.   
