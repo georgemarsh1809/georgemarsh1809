@@ -2,11 +2,6 @@
 <p align="center"> <strong>
   Full-Stack Dev 🧑‍💻 Tech Humanist 🌍 Chess Nerd ♟️ DJ 🎛️ </strong> 
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/georgemarsh1809/" target="_blank">LinkedIn</a> • 
-  <a href="https://georgemarsh.co.uk" target="_blank">Portfolio</a> •
-  <a href="mailto:georgemarsh1809@gmail.com" target="_blank">Email</a> 
-</p>
 
 ## ⚡ About Me
 
@@ -57,6 +52,14 @@ Real-time comms app built to streamline and improve incident resolution.
 - 🚀 TypeScript, React Native
 - 🧠 Prompt engineering + AI-agent workflows  
 - 🎨 End-to-end System Design
+
+---
+
+## 📫 Let's connect
+
+- 🧠 [LinkedIn](https://www.linkedin.com/in/georgemarsh1809/)  
+- 💌 Email: you@example.com
+- 📝 Portfolio: https://georgemarsh.co.uk
 
 ---
 
