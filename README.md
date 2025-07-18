@@ -3,6 +3,11 @@
   Full-Stack Dev 🧑‍💻 Tech Humanist 🌍 Chess Nerd ♟️ DJ 🎛️ </strong> 
 </p>
 
+<p align="center"> <i>
+  “Your passion becomes your purpose when you use it to serve others" — Jay Shetty</i> 
+</p>
+
+
 ## ⚡ About Me
 
 I'm a creative and curious engineer with 5+ years in DevOps supporting government platforms, and 7+ years building full-stack apps. I love building tech that empower people; especially those that drive sustainabile innovation, data insights, or digital freedom.
@@ -62,6 +67,6 @@ Real-time comms app built to streamline and improve incident resolution.
 
 ---
 
-_“Your passion becomes your purpose when you use it to serve others" — Jay Shetty_
+
 
 
