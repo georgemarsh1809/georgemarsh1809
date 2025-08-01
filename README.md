@@ -10,7 +10,7 @@
 
 ## ⚡ About Me
 
-I'm a creative and deeply curious engineer with 5+ years in DevOps supporting government platforms, and 7+ years building full-stack apps. I love building tech that empower people; especially projects that drive sustainabile innovation, data insights, or digital freedom.
+I'm a creative and deeply curious engineer with 5+ years in DevOps supporting government platforms, and 7+ years building full-stack apps. I love building tech that empowers people; especially projects that drive sustainabile innovation, data insights, or digital freedom.
 
 ---
 
