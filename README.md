@@ -63,7 +63,6 @@ Real-time comms app built to streamline and improve high-priority incident resol
 ## 📫 Let's connect
 
 - 🧠 LinkedIn: https://www.linkedin.com/in/georgemarsh1809/
-- 📝 Portfolio: https://georgemarsh.co.uk
 
 ---
 
