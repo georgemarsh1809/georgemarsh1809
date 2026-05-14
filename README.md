@@ -3,14 +3,10 @@
   Full-Stack Dev 🧑‍💻 Tech Humanist 🌍 Chess Nerd ♟️ DJ 🎛️ </strong> 
 </p>
 
-<p align="center"> <i>
-  “Your passion becomes your purpose when it's used to serve others" — Jay Shetty</i> 
-</p>
-
 
 ## ⚡ About Me
 
-I'm a creative and deeply curious engineer with 5+ years in DevOps supporting government platforms, and 7+ years building full-stack apps. I love building tech that empowers people; especially projects that drive sustainabile innovation, data insights, or digital freedom.
+I'm a creative and deeply curious full-stack and DevOps engineer with a background in UK government platforms and SME operational systems. Currently taking on contract engineering work while running GBM Group, a small consultancy helping ops-heavy businesses get more from their data.
 
 ---
 
