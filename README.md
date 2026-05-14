@@ -6,29 +6,29 @@
 
 ## ⚡ About Me
 
-I'm a creative and deeply curious full-stack and DevOps engineer with a background in UK government platforms and SME operational systems. Currently taking on contract engineering work while running GBM Group, a small consultancy helping ops-heavy businesses get more from their data.
+I'm a creative and deeply curious Full-Stack and DevOps engineer with a background in UK government platforms and SME operational systems. Currently taking on contract engineering work while running GBM Group, a small consultancy helping ops-heavy businesses get more from their data.
 
 ---
 
 ## 🔧 Toolbox
 
 **Languages**  
-`Python` `JavaScript` `HTML/CSS`  `Java` `SQL`  
+`Python` `JavaScript` `TypeScript` `HTML/CSS` `SQL` `Bash`  
 
 **Frontend**  
-`React` `Redux` `Zustand` `Recharts` `Leaflet`
+`React` `Vite` `Responsive UI Design` `Zustand` `Recharts` `Leaflet`
 
 **Backend**  
-`Node.js` `Express` `FastAPI` `Microservices`
+`FastAPI` `Node.js` `Express` `REST APIs` `OAuth (Auth0)` `Pytest`
 
 **Data**  
-`PostgreSQL` `Firebase` `BigQuery` `MySQL`
+`PostgreSQL` `BigQuery` `MySQL` `Neon`
 
 **DevOps / Infra**  
-`Docker` `Bash` `Git` `AWS` `Azure` `GCP`
+`AWS (R53, CloudFront, S3)` `Azure CLI` `Docker` `CI/CD` `Linux` `Git`
 
-**Other**  
-`UI/UX` `Figma` `Postman` 
+**Platforms & Tools**  
+`Fly.io` `Netlify` `Cloudflare R2` `Postman` `Neon`
 
 ---
 
@@ -45,14 +45,6 @@ Interactive chess data visualiser built to bring insight into player results and
 ### 💬 [CrisisConnect](https://github.com/georgemarsh1809/CrisisConnect)  
 Real-time comms app built to streamline and improve high-priority incident resolution.  
 > Firebase → React (ChakraUI) 
-
----
-
-## 🌱 What I'm Learning Right Now
-
-- 🚀 TypeScript + React Native
-- 🧠 Prompt engineering + AI-assisted workflows  
-- 🎨 End-to-end System Design
 
 ---
 
