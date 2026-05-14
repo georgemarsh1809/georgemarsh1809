@@ -6,7 +6,7 @@
 
 ## ⚡ About Me
 
-I'm a creative and deeply curious Full-Stack and DevOps engineer with a background in UK government platforms and SME operational systems. Currently taking on contract engineering work while running GBM Group, a small consultancy helping ops-heavy businesses get more from their data.
+I'm a creative and deeply curious Full-Stack and DevOps engineer with a background in UK government platforms and SME operational systems. I love building tech that prioritises human well-being and let's us stay in control. Currently taking on contract engineering work while running GBM Group, a small consultancy helping ops-heavy businesses get more from their data.
 
 ---
 
