@@ -6,6 +6,9 @@
 
 <p align="center">
   Building production data platforms, operational systems, and agentic AI tools.
+</p>
+
+<p align="center">
   Currently available for fully remote contract and permanent roles.
 </p>
 
