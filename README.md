@@ -1,34 +1,34 @@
-<h1 align="center">Hey, I'm George 👋</h1>
+<h1 align="center">George Marsh</h1>
 
 <p align="center">
-  <strong>Full-Stack & DevOps Engineer · Python · React · AWS</strong>
+  <em>Full-Stack & DevOps Engineer · Building things that make data useful</em>
 </p>
 
 <p align="center">
-  Building production data platforms, operational systems, and agentic AI tools.
-</p>
-
-<p align="center">
-  Currently available for fully remote contract and permanent roles.
+  <a href="https://www.linkedin.com/in/georgemarsh1809/">LinkedIn</a> ·
+  <a href="mailto:georgemarsh1809@gmail.com">Email</a> ·
+  Available for fully remote roles globally
 </p>
 
 ---
 
-## About Me
+I build production systems that turn messy, fragmented data into something a team can actually use to make decisions. Usually that means ETL pipelines, operational dashboards, and the infrastructure underneath them. 
 
-Full-Stack and DevOps engineer with a background in UK government platforms and SME operational systems. I specialise in turning fragmented data into structured, reliable systems that help teams make better decisions.
+Sometimes it means getting a spreadsheet to behave...
 
-Most recently I delivered a production data and reporting platform as sole engineer for a UK transport company — end to end, fully remote, from ETL pipeline architecture to cloud infrastructure to React frontend.
+Most recently I delivered an end-to-end data platform as sole engineer for a UK transport company — fully remote, no senior above me, from pipeline architecture to cloud deployment to React frontend. 
 
-I also run GBM Group, a small consultancy helping ops-heavy businesses replace spreadsheet-based reporting with structured operational systems.
+Before that, 5 years at CGI UK keeping a national government platform running for 30k+ daily users.
 
-Currently building in the agentic AI space: LangGraph, LlamaIndex, RAG architectures, and self-correcting retrieval pipelines.
+I also run **GBM Group**, a small consultancy helping ops-heavy businesses replace fragmented reporting with systems that actually work. 
 
-Tech humanist · Chess player · Drum and bass DJ (Baxtr)
+And I'm currently building in the agentic AI space — RAG pipelines, LangGraph orchestration, self-correcting retrieval systems.
+
+Outside of engineering: I play a lot of chess, make and DJ Drum and Bass as **Baxtr**, and spend time thinking about consciousness, technology, and what it means to build things that serve people rather than the other way around.
 
 ---
 
-## 🔧 Toolbox
+## Toolbox
 
 **Languages**
 `Python` `JavaScript` `TypeScript` `SQL` `Bash`
@@ -42,39 +42,42 @@ Tech humanist · Chess player · Drum and bass DJ (Baxtr)
 **Data**
 `PostgreSQL` `BigQuery` `MySQL` `Neon`
 
-**DevOps / Infra**
-`AWS (R53, CloudFront, S3)` `Azure CLI` `Docker` `CI/CD` `Linux` `Git`
+**DevOps & Infra**
+`AWS` `Docker` `Azure CLI` `CI/CD` `Linux` `Git`
 
-**Platforms & Tools**
+**Platforms**
 `Fly.io` `Netlify` `Cloudflare R2` `Postman`
 
 ---
 
-## ⭐ Featured Projects
+## Projects
 
 ### 🤖 [ComplianceQA](https://github.com/georgemarsh1809/compliance-qa)
-Agentic RAG system with a self-correcting retrieval loop over UK food safety law. Built to answer compliance questions with source-grounded, verifiable responses.
+Agentic RAG system with a self-correcting retrieval loop over UK food safety law. Answers compliance questions with source-grounded, verifiable responses. The really fun part was building the correction loop; getting the agent to recognise when its retrieval wasn't good enough and try again.
 > Python · LangGraph · LlamaIndex · Claude · FastAPI
 
 ### 🚲 [London Sustainability Insights Platform](https://github.com/georgemarsh1809/LondonCityBikeInsights)
-Full-stack data platform ingesting and visualising London transport data to surface sustainable travel patterns.
+Full-stack data platform built to surface sustainable travel patterns across London. Took a large public transport dataset, built the ingestion and transformation layer, and made it insightful.
 > BigQuery · FastAPI · React
 
 ### ♟️ [Chess Data Visualiser](https://github.com/georgemarsh1809/ChessDataVisualiser)
-Interactive visualiser for chess player results and game statistics, with real-time data and responsive UI.
+Built this because I wanted to actually understand my own chess games rather than just replay them. Turns out visualising your mistakes is more useful than replaying them...
 > PostgreSQL · Express · React · Zustand
 
 ---
 
-## 🌱 Currently Building
+## Currently Building
 
-- **DocAgent** — Document Q&A agent with RAG retrieval, LangGraph orchestration, Pydantic AI structured outputs, and an eval set. LlamaIndex · LangGraph · FastAPI · React
-- Deepening expertise in agentic workflows, prompt engineering, and LLM integration patterns
+**ComplianceQA** — A document Q&A agent with RAG retrieval, LangGraph orchestration, Pydantic AI structured outputs, and a hand-written eval set. The goal is to build something I can talk about in technical interviews without bullshitting — real architecture decisions, real trade-offs, real eval results.
+
+> LlamaIndex · LangGraph · Pydantic AI · FastAPI · React
 
 ---
 
-## 📫 Let's connect
+## Open to
 
-- LinkedIn: [georgemarsh1809](https://www.linkedin.com/in/georgemarsh1809/)
-- GitHub: [georgemarsh1809](https://github.com/georgemarsh1809)
-- Open to fully remote contract and permanent roles globally
+Fully remote contract or permanent roles. Python, React, data platforms, operational systems, agentic AI. Timezone flexible. Currently based in the UK, heading somewhere warmer in early 2027.
+
+---
+
+*"The map is not the territory — but a good map still helps."*
