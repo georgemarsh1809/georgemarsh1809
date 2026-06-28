@@ -12,41 +12,42 @@
 
 ---
 
-I build production systems that turn messy, fragmented data into something a team can actually use to make decisions. Usually that means ETL pipelines, operational dashboards, and the infrastructure underneath them. 
+My best and favourite work is building complete systems, and owning the full problem space. Not just components handed off to someone else's stack, but the whole thing: data pipelines, backend logic, cloud infrastructure, and the interface that makes the output usable by the people who use it.
 
-Sometimes it means getting a spreadsheet to behave...
+The part I find most interesting is the beginning, the 0-1 phase, when the problem is not yet well-defined, and the real work is figuring out what you are actually trying to solve and the shape of the solution.
 
-Most recently I delivered an end-to-end data platform as sole engineer for a UK transport company — fully remote, no senior above me, from pipeline architecture to cloud deployment to React frontend. 
+Most recently I was the sole engineer on an end-to-end data platform for a UK transport company. Remote-first, no senior above me, owning everything from pipeline and system architecture to cloud deployment to the React frontend. Before that, 5 years at CGI in production operations and DevOps, keeping a national government platform running for 30k+ daily users.
 
-Before that, 5 years at CGI UK keeping a national government platform running for 30k+ daily users.
+I also run **GBM Group**, a small consultancy that helps ops-heavy businesses replace fragmented reporting with infrastructure they can trust.
 
-I also run **GBM Group**, a small consultancy helping ops-heavy businesses replace fragmented reporting with systems that actually work. 
+Lately most of my energy goes into agentic AI: RAG pipelines, LangGraph orchestration, and retrieval systems that can evaluate and correct their own outputs. That is where the engineering becomes most interesting to me right now.
 
-And I'm currently building in the agentic AI space — RAG pipelines, LangGraph orchestration, self-correcting retrieval systems.
-
-Outside of engineering: I play a lot of chess, make and DJ Drum and Bass as **Baxtr**, and spend time thinking about consciousness, technology, and what it means to build things that serve people rather than the other way around.
+Away from the keyboard: chess, DJ/producer, and the rest of my time thinking about consciousness, philosophy, societla systems, and what it means to build things that serve people rather than damage the world.
 
 ---
 
 ## Toolbox
 
 **Languages**
-`Python` `JavaScript` `TypeScript` `SQL` `Bash`
+`Python` `TypeScript` `JavaScript` `SQL` `Bash`
 
-**Frontend**
-`React` `Vite` `Zustand` `Recharts` `Responsive UI`
+**AI / Agentic**
+`LangGraph` `LlamaIndex` `RAG` `Claude API` `Pydantic` `Voyage embeddings`
 
 **Backend**
-`FastAPI` `Node.js` `Express` `REST APIs` `OAuth (Auth0)` `Pytest`
+`FastAPI` `Node.js` `Express` `REST APIs` `Auth0` `Pytest`
+
+**Frontend**
+`React` `Vite` `Tailwind` `Zustand` `Recharts`
 
 **Data**
-`PostgreSQL` `BigQuery` `MySQL` `Neon`
+`PostgreSQL` `BigQuery` 
 
-**DevOps & Infra**
-`AWS` `Docker` `Azure CLI` `CI/CD` `Linux` `Git`
+**Infra & DevOps**
+`AWS (ECS Fargate, ECR, S3, IAM)` `Terraform` `Docker` `GitHub Actions` `Linux` `Git`
 
 **Platforms**
-`Fly.io` `Netlify` `Cloudflare R2` `Postman`
+`Fly.io` `Netlify` `Cloudflare R2` `Neon`
 
 ---
 
@@ -68,7 +69,7 @@ Built this because I wanted to actually understand my own chess games rather tha
 
 ## Currently Building
 
-**ComplianceQA** — A document Q&A agent with RAG retrieval, LangGraph orchestration, Pydantic AI structured outputs, and a hand-written eval set. The goal is to build something I can talk about in technical interviews without bullshitting — real architecture decisions, real trade-offs, real eval results.
+**ComplianceQA (Version 1 shipped)** — A document Q&A agent with RAG retrieval, LangGraph orchestration, Pydantic AI structured outputs, and a hand-written eval set. The goal is to build something I can talk about in technical interviews without bullshitting — real architecture decisions, real trade-offs, real eval results.
 
 > LlamaIndex · LangGraph · Pydantic AI · FastAPI · React
 
