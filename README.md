@@ -69,7 +69,11 @@ Built this because I wanted to actually understand my own chess games rather tha
 
 ## Currently Building
 
-**ComplianceQA (Version 1 shipped)** — A document Q&A agent with RAG retrieval, LangGraph orchestration, Pydantic AI structured outputs, and a hand-written eval set. The goal is to build something I can talk about in technical interviews without bullshitting — real architecture decisions, real trade-offs, real eval results.
+**TactIQ (In development)** - A chess puzzle training platform with an adaptive analytical engine. Goes beyond spaced repetition by computing co-occurrence patterns across tactical theme failures to surface conceptual weaknesses and drive smarter puzzle selection. Designed in layers: PMI-based co-occurrence now, Deep Knowledge Tracing and position embeddings as the data scales.
+
+> FastAPI · React · PostgreSQL · Anthropic API
+
+**ComplianceQA (Version 1 shipped)** - A document Q&A agent with RAG retrieval, LangGraph orchestration, Pydantic AI structured outputs, and a hand-written eval set. The goal is to build something I can talk about in technical interviews without bullshitting — real architecture decisions, real trade-offs, real eval results.
 
 > LlamaIndex · LangGraph · Pydantic AI · FastAPI · React
 
